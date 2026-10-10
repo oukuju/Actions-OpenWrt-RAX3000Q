@@ -8,6 +8,8 @@
 6. ✅第五部分内核模块：删除 sit/gre/pptp 隧道 VPN；保留 tun、macvlan、gpio‑button‑hotplug、全套 NSS
 7. ✅第六部分内核调试选项：关闭 DEBUG_FS、KALLSYMS、DEBUG_INFO、MAGIC_SYSRQ、KEXEC、CRASH_DUMP、COREDUMP；保留 cgroups/zram‑swap
 8. ✅第七部分：校验全部核心必保项，NSS、PPP、dnsmasq、dropbear、uhttpd、flash 工具完整保留
+
+
 Build Immortalwrt for CMCC RAX3000Q/QY using GitHub Actions
 
 Kernel Version : 5.4-QSDK
